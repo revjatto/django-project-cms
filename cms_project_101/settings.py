@@ -26,7 +26,7 @@ SECRET_KEY = 'o8%1iupe*rpsw==$!%s@kwo8-uxvcer5m$78j@6xi=i2dcb7gr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['shrouded-brook-52279.herokuapp.com']
+ALLOWED_HOSTS = ['sheltered-springs-70287.herokuapp.com']
 
 
 # Application definition
